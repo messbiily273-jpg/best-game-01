@@ -1,5 +1,9 @@
 # SIEGE PROTOCOL — 5v5 Tactical FPS
 
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/messbiily273-jpg/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/messbiily273-jpg/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
 A complete, original 5v5 tactical first-person shooter that runs entirely
 offline from static files. Built for the make.fun best-game-01 bounty.
 
@@ -75,3 +79,7 @@ taken from these frozen states.
 ## License
 
 MIT. See LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
